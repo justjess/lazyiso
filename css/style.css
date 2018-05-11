@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background: radial-gradient(ellipse at center,  rgba(0,85,107,1) 0%,rgba(0,0,0,1) 100%);
+  background: #dddddd;
 }
 
 .isotope-wrapper {
@@ -19,7 +19,7 @@ body {
 }
 
 .isotope-toolbar {
-  background: rgba(66, 66, 99, 0.3);
+  background: #dedede;
   padding: 10px;
   margin: 10px;
   color: #eee;
@@ -36,7 +36,6 @@ body {
   position: relative;
   width: 31%;
   margin: 1%;
-  box-shadow: 1px 2px 30px rgba(0, 0, 0, 0.9);
 }
 
 .isotope-item:before {
