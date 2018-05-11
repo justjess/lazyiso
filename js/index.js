@@ -15,6 +15,7 @@ $('.isotope-wrapper')
 				$isotope.isotope({
 					itemSelector: '.isotope-item',
 					layoutMode: 'masonry'
+					
 				});
 
 				$(this).on('change', filter);

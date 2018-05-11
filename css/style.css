@@ -7,8 +7,8 @@ body {
 
 .isotope-wrapper {
   position: relative;
-  width: 70%;
-  max-width: 980px;
+  width: 100%;
+  max-width: 1366px;
   min-width: 480px;
   margin: auto;
 }
@@ -16,20 +16,7 @@ body {
 .isotope-box {
   position: relative;
   width: 100%;
-}
-
-.isotope-toolbar {
-  background: #dedede;
-  padding: 10px;
-  margin: 10px;
-  color: #eee;
-}
-.isotope-toolbar p {
-  border-top: 1px solid #fff;
-  padding-top: 15px;
-}
-.isotope-toolbar a {
-  color: #fff;
+	height: 100%;
 }
 
 .isotope-item {
